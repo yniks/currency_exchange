@@ -3,8 +3,8 @@ Quick Utility to convert currency values
 
 # USAGE:
 ```bash
-usage: exhange.py [-h] [-v] from value to
-exhange.py: error: the following arguments are required: from, value, to
+usage: exchange.py [-h] [-v] from value to
+exchange.py: error: the following arguments are required: from, value, to
 ```
 ## example
 ```bash
