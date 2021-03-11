@@ -4,7 +4,18 @@ Quick Utility to convert currency values
 # USAGE:
 ```bash
 usage: exchange.py [-h] [-v] from value to
-exchange.py: error: the following arguments are required: from, value, to
+
+Convert Currency Values at Exchanges
+
+positional arguments:
+  from           currency to covert from
+  value          value in currency1
+  to             Currency to which convert to
+
+optional arguments:
+  -h, --help     show this help message and exit
+  -v, --verbose  if true, print a descriptive message of what is happening
+
 ```
 ## example
 ```bash
